@@ -10,7 +10,7 @@
 		".gitignore",
 		"README.md"
 	],
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"name": "aureooms-js-int64",
 	"main": "js/dist/int64.js",
 	"homepage": "http://aureooms.github.io/js-int64/",
