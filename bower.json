@@ -1,0 +1,19 @@
+{
+	"ignore": [
+		"js/index.js",
+		"js/src",
+		"test",
+		"pkg.json",
+		"package.json",
+		".groc.json",
+		".travis.yml",
+		".gitignore",
+		"README.md"
+	],
+	"version": "0.0.0",
+	"name": "aureooms-js-int64",
+	"main": "js/dist/int64.js",
+	"homepage": "http://aureooms.github.io/js-int64/",
+	"description": "64-bit signed integer arithmetic code bricks for JavaScript",
+	"license": "AGPL-3.0"
+}

@@ -1,0 +1,17 @@
+{
+	"debug": false,
+	"ns": "int64",
+	"out": "js/dist/",
+	"code": {
+		"test": [
+			"test",
+			"js"
+		],
+		"main": [
+			"js",
+			"dist",
+			"int64.js"
+		]
+	},
+	"src": "js/src/"
+}
