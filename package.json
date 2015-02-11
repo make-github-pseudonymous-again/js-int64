@@ -20,7 +20,7 @@
 		"build": "./node_modules/.bin/aureooms-node-package-build",
 		"test": "./node_modules/.bin/aureooms-node-package-test"
 	},
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "64-bit signed integer arithmetic code bricks for JavaScript",
 	"author": "aureooms",
 	"repository": {
