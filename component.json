@@ -1,6 +1,6 @@
 {
 	"description": "64-bit signed integer arithmetic code bricks for JavaScript",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"repo": "aureooms/js-int64",
 	"scripts": [
 		"js/dist/int64.js"
