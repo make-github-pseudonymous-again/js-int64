@@ -1,6 +1,6 @@
 {
 	"debug": false,
-	"ns": "int64",
+	"name": "int64",
 	"out": "js/dist/",
 	"code": {
 		"test": [
