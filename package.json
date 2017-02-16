@@ -1,6 +1,6 @@
 {
 	"dependencies": {},
-	"name": "aureooms-js-int64",
+	"name": "@aureooms/js-int64",
 	"main": "js/dist/int64.js",
 	"homepage": "http://aureooms.github.io/js-int64/",
 	"devDependencies": {
