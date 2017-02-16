@@ -1,6 +1,8 @@
-(function(exports, undefined){
+( function ( ) {
 
-	'use strict';
+'use strict' ;
+
+var definition = function ( exports , undefined ) {
 
 
 /* js/src/compare.js */
@@ -24,4 +26,16 @@ exports.min = [ 0x80000000 , 0x00000000 ] ;
 /** 2^63 - 1 */
 exports.max = [ 0x7fffffff , 0xffffffff ] ;
 
-})(typeof exports === 'undefined' ? this['int64'] = {} : exports);
+return exports ;
+} ;
+if ( typeof exports === "object" ) {
+	definition( exports ) ;
+}
+else if ( typeof define === "function" && define.amd ) {
+	define( "@aureooms/js-int64" , [ ] , function ( ) { return definition( { } ) ; } ) ;
+}
+else if ( typeof window === "object" && typeof window.document === "object" ) {
+	definition( window["int64"] = { } ) ;
+}
+else console.error( "unable to detect type of module to define for @aureooms/js-int64") ;
+} )( ) ;
