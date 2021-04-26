@@ -25,10 +25,10 @@
 	"author": "aureooms",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/aureooms/js-int64.git"
+		"url": "https://github.com/make-github-pseudonymous-again/js-int64.git"
 	},
 	"bugs": {
-		"url": "https://github.com/aureooms/js-int64/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-int64/issues"
 	},
 	"license": "AGPL-3.0"
 }
