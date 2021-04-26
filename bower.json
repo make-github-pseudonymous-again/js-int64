@@ -15,7 +15,7 @@
   "version": "0.0.4",
   "name": "aureooms-js-int64",
   "main": "js/dist/int64.js",
-  "homepage": "http://aureooms.github.io/js-int64/",
+  "homepage": "http://make-github-pseudonymous-again.github.io/js-int64/",
   "description": "64-bit signed integer arithmetic code bricks for JavaScript",
   "license": "AGPL-3.0"
 }

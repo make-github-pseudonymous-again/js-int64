@@ -2,7 +2,7 @@
 	"dependencies": {},
 	"name": "@aureooms/js-int64",
 	"main": "js/dist/int64.js",
-	"homepage": "http://aureooms.github.io/js-int64/",
+	"homepage": "http://make-github-pseudonymous-again.github.io/js-int64/",
 	"devDependencies": {
 		"aureooms-node-package": "^6.0.1"
 	},

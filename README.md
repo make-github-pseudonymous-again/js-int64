@@ -1,4 +1,4 @@
-[js-int64](http://aureooms.github.io/js-int64)
+[js-int64](http://make-github-pseudonymous-again.github.io/js-int64)
 ==
 
 64-bit signed integer arithmetic code bricks for JavaScript
